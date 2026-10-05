@@ -40,7 +40,7 @@ void main() {
                 ),
                 SizedBox(height: 20),
                 Text(
-                  "RUDRA ASHA SANTHOSHI",
+                  "VODUGU JNANA SRI",
                   style: TextStyle(
                     fontSize: 22,
                     fontWeight: FontWeight.bold,
@@ -48,7 +48,7 @@ void main() {
                 ),
                 SizedBox(height: 8),
                 Text(
-                  "Roll Number: 24PA1A05K1",
+                  "Roll Number: 24PA1A05O3",
                   style: TextStyle(fontSize: 16),
                 ),
                 SizedBox(height: 5),
@@ -97,7 +97,7 @@ void main() {
                     children: [
                       Icon(Icons.email),
                       SizedBox(width: 10),
-                      Text("asha@example.com"),
+                      Text("siri@example.com"),
                     ],
                   ),
                 ),
